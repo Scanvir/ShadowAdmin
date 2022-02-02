@@ -1,0 +1,13 @@
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.csproj.AssemblyReference.cache
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.Form1.resources
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.Properties.Resources.resources
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.csproj.GenerateResource.cache
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.csproj.CoreCompileInputs.cache
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\bin\Debug\ShadowAdmin.exe.config
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\bin\Debug\ShadowAdmin.exe
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\bin\Debug\ShadowAdmin.pdb
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\bin\Debug\Cassia.dll
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\bin\Debug\Cassia.xml
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.csproj.CopyComplete
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.exe
+E:\C# Psheni4niy\ShadowAdmin\ShadowAdmin\obj\Debug\ShadowAdmin.pdb
